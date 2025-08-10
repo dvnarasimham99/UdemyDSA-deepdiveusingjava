@@ -20,6 +20,10 @@ public class BubbleSortDemo
             System.out.println(intArray[i]);
         }
 
+        for (int j : intArray) {
+            System.out.println(j);
+        }
+
 
         //2. Bubble sort greater elements to start/front of the array >> Descending Order
 
